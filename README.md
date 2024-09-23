@@ -36,11 +36,12 @@ promotion_last_5years|Whether or not the employee was promoted in the last 5 yea
 Department|The employee's department
 salary|The employee's salary (U.S. dollars)
 
-# 3. PACE stages
+# 3. PACE Stages
 ![pace stage](images/PACE-Stages.png)
-Detailed process in the Jupyter Notebook [Here].
+Detailed process in the [Code Notebook](Salifort Motors Capstone Project Code Notebook.ipynb).
 
 # 4. Data Analysis
+Model Creation in the [Code Notebook](Salifort Motors Capstone Project Code Notebook.ipynb)
 
 **Tools used:**
 - Data Manipulation
