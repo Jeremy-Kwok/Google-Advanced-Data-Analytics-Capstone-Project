@@ -58,7 +58,7 @@ Detailed process in the Jupyter Notebook [Here].
   - Pickle
 
 
-# 4. Result
+# 5. Result
 [Executive Summary](https://github.com/Jeremy-Kwok/Google-Advanced-Data-Analytics-Capstone-Project/blob/main/Executive%20Summary.pdf)
 
 ### Summary of model results
@@ -82,12 +82,12 @@ The decision tree model achieved on the test set:
 
 **Feature Importance**
 
-
-From all of the models, we can see that the most important features are (from most important to least important) `last_evaluation`, `number_project`, `tenure`, `overworked`. These variables are most helpful in predicting the outcome variable `left` (whether or not an employee left Salifort Motors)
+From all of the models, we see that the most important features are (from most important to least important) `last_evaluation`, `number_project`, `tenure`, `overworked`. These variables are most helpful in predicting the outcome variable `left` (whether or not an employee left Salifort Motors)
 
 ### Conclusion and Recommendations
+**Conclusion:** All models suggest that employees are being overworked.
 
-To retain employees, the following recommendations could be presented to the stakeholders:
+**Recommendations:** To retain employees, the following recommendations could be presented to the stakeholders:
 
 - Cap the number of projects that employees can work on.
 - Consider promoting employees who have been with the company for atleast four years, or conduct further investigation about why four-year tenured employees are so dissatisfied.
