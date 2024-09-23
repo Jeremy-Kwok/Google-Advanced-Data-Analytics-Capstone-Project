@@ -59,7 +59,7 @@ Detailed process in the Jupyter Notebook [Here].
 
 
 # 4. Result
-Executive summary [Here](https://github.com/Jeremy-Kwok/Google-Advanced-Data-Analytics-Capstone-Project/blob/main/Executive%20Summary.pdf)
+[Executive Summary](https://github.com/Jeremy-Kwok/Google-Advanced-Data-Analytics-Capstone-Project/blob/main/Executive%20Summary.pdf)
 
 ### Summary of model results
 
