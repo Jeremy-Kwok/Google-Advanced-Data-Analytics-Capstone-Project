@@ -37,7 +37,7 @@ Department|The employee's department
 salary|The employee's salary (U.S. dollars)
 
 # 3. PACE stages
-![pace stage](images/pace-stage.jpg)
+![pace stage](Pace-Stages.png)
 Detailed process in the Jupyter Notebook [Here].
 
 # 4. Data Analysis
