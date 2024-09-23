@@ -58,6 +58,19 @@ Model Creation in the [Code Notebook](Salifort_Motors_Capstone_Project_Code_Note
 - Saving Models
   - Pickle
 
+Graphical Representations
+
+### Confusion Matrix to visualize the results of the Logistic Regression Model
+![confusion matrix](images/Confusion_Matrix_for_Linear_Regression_Model_Visualization.png)
+
+### Decision Tree Split
+![decision tree split](images/Decision_Tree_Split.png)
+
+### Barplot Representing Decision Tree Feature Importances
+![decision tree feature importances](images/Barplot_Decision_Tree_Feature_Importance.png)
+
+### Barplot Representing Random Forest Feature Importances
+![random forest feature importances](images/Barplot_Random_Forest_Feature_Importance.png)
 
 # 5. Result
 [Executive Summary](https://github.com/Jeremy-Kwok/Google-Advanced-Data-Analytics-Capstone-Project/blob/main/Executive%20Summary.pdf)
