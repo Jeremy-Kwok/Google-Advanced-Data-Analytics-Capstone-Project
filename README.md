@@ -38,10 +38,10 @@ salary|The employee's salary (U.S. dollars)
 
 # 3. PACE Stages
 ![pace stage](images/PACE-Stages.png)
-Detailed process in the [Code Notebook](Salifort Motors Capstone Project Code Notebook.ipynb).
+Detailed process in the [Code Notebook](Salifort_Motors_Capstone_Project_Code_Notebook.ipynb).
 
 # 4. Data Analysis
-Model Creation in the [Code Notebook](Salifort Motors Capstone Project Code Notebook.ipynb)
+Model Creation in the [Code Notebook](Salifort_Motors_Capstone_Project_Code_Notebook.ipynb)
 
 **Tools used:**
 - Data Manipulation
