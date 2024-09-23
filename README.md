@@ -5,33 +5,12 @@ This is my capstone project for Google's Advanced Data Analytics Course, utilizi
 
 - The Colab Code Notebook contains all the model and data visualization, and walks you through the project
 
-
-**Tools used:**
-
-- Data Manipulation
-  - NumPy
-  - Pandas
-  
-- Data Visualization
-  - Matplotlib
-  - Seaborn
-  
-- Data Modeling
-  - XGBoost (Extreme Gradient Boosting)
-  - Scikit-learn (sklearn)
-  
-- Metrics and Helpful Functions
-  - More scikit-learn
-  
-- Saving Models
-  - Pickle
-
 # Table of Contents
 
 1. [Introduction](#1-introduction)
 2. [Scenario](#2-scenario)
 3. [PACE stages](#3-pace-stages)
-4. [PACE stages](#4-models)
+4. [Data Analysis](#4-data-analysis)
 5. [Result](#5-result)
 
 # 1. Introduction
@@ -60,6 +39,24 @@ salary|The employee's salary (U.S. dollars)
 # 3. PACE stages
 ![pace stage](images/pace-stage.jpg)
 Detailed process in the Jupyter Notebook [Here].
+
+# 4. Data Analysis
+
+**Tools used:**
+- Data Manipulation
+  - NumPy
+  - Pandas
+- Data Visualization
+  - Matplotlib
+  - Seaborn
+- Data Modeling
+  - XGBoost (Extreme Gradient Boosting)
+  - Scikit-learn (sklearn)
+- Metrics and Helpful Functions
+  - More scikit-learn
+- Saving Models
+  - Pickle
+
 
 # 4. Result
 Executive summary [Here](https://github.com/Jeremy-Kwok/Google-Advanced-Data-Analytics-Capstone-Project/blob/main/Executive%20Summary.pdf)
